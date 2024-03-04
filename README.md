@@ -1,7 +1,7 @@
 <h1>👋 Hey, I’m Divya Tripathi</h1>
 🌱 I’m currently learning Web development course
 <br>
-📫 How to reach me divitripathi@gmail.com
+📫 How to reach me tripathid@gmail.com
 
 <!---
 divitripathi/divitripathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
